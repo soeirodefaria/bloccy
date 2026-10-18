@@ -23,7 +23,12 @@ Works with the **ChatGPT** and **Claude** desktop apps, and with chatgpt.com and
 
 This repository is for downloads and feedback. Bloccy is in early testing.
 
-<p align="center"><img src="screenshots/composer.png" width="720" alt="The Bloccy composer over ChatGPT: a story arc in text, a hand-drawn diagram and three images"></p>
+<table>
+  <tr>
+    <td width="50%" align="center"><img src="screenshots/chatgpt.png" alt="The Bloccy icon next to the ChatGPT chat box"><br><sub>The Bloccy icon, next to the chat box</sub></td>
+    <td width="50%" align="center"><img src="screenshots/composer.png" alt="The Bloccy canvas over ChatGPT: a story arc in text, a hand-drawn diagram and three images"><br><sub>The Bloccy canvas</sub></td>
+  </tr>
+</table>
 
 ## Install
 
