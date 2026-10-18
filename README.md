@@ -56,8 +56,6 @@ Every image and drawing becomes a numbered figure. The text gets a marker like *
 For the message in the screenshot above, ChatGPT receives this text:
 
 ```text
-## The Lighthouse Keeper
-
 Help me tighten the story arc for my short film. Here is where I am:
 
 1. Setup: Mara inherits the old lighthouse and finds a box of unsent letters.
