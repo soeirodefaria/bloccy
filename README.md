@@ -23,10 +23,7 @@ Works with the **ChatGPT** and **Claude** desktop apps, and with chatgpt.com and
 
 This repository is for downloads and feedback. Bloccy is in early testing.
 
-<p align="center">
-  <img src="screenshots/composer.png" width="49%" alt="The Bloccy composer over ChatGPT, with the slash menu open">
-  <img src="screenshots/chatgpt.png" width="49%" alt="A Bloccy message sent to ChatGPT, with its images attached">
-</p>
+<p align="center"><img src="screenshots/composer.png" width="720" alt="The Bloccy composer over ChatGPT: a story arc in text, a hand-drawn diagram and three images"></p>
 
 ## Install
 
@@ -50,6 +47,29 @@ Bloccy lives in the menu bar and updates itself.
 You write your message the way you'd explain it in person: some text, then a screenshot, a sketch, more text. Bloccy keeps that order when it sends.
 
 Every image and drawing becomes a numbered figure. The text gets a marker like **[Figure 1]** exactly where the image sat, and the same label is drawn into the corner of the image. So the AI reads your message in the right sequence and knows which image you mean at each point, instead of getting a pile of attachments and a block of text to piece together.
+
+For the message in the screenshot above, ChatGPT receives this text:
+
+```text
+## The Lighthouse Keeper
+
+Help me tighten the story arc for my short film. Here is where I am:
+
+1. Setup: Mara inherits the old lighthouse and finds a box of unsent letters.
+2. Rising action: the letters lead her to the people they were meant for, as a storm closes in.
+3. Climax: the lamp fails on the night a boat goes missing.
+4. Resolution: she relights it and finally sends the last letter.
+
+The middle feels slow. Where should the turning point land?
+
+[Figure 1]
+
+The look I am going for:
+
+[Figure 2] [Figure 3] [Figure 4]
+```
+
+with four images attached: the drawing labelled **Figure 1** and the three photos labelled **Figure 2** to **4**.
 
 Then Bloccy puts it all in the chat box of the app you're using and sends it, or leaves it there for you to review first.
 
