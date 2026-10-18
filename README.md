@@ -15,16 +15,30 @@ Works with the **ChatGPT** and **Claude** desktop apps, and with chatgpt.com and
 
 This repository is for downloads and feedback. Bloccy is in early testing.
 
+<table>
+  <tr>
+    <td width="50%"><img src="screenshots/1-icon.png" alt="The Bloccy icon next to the ChatGPT chat box"><br><sub>Click the Bloccy icon next to the chat box</sub></td>
+    <td width="50%"><img src="screenshots/2-compose.png" alt="Writing a message in the Bloccy composer"><br><sub>Write your message</sub></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/3-slash-menu.png" alt="The slash menu with Image and Drawing"><br><sub>Press / to add an image or a drawing</sub></td>
+    <td><img src="screenshots/4-drawing.png" alt="Drawing a story arc in the drawing editor"><br><sub>Sketch it, or annotate a screenshot</sub></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/5-images.png" alt="A drawing and three images side by side in the composer"><br><sub>Put images side by side</sub></td>
+    <td><img src="screenshots/6-sent.png" alt="The message sent to ChatGPT with its images"><br><sub>Send it all to ChatGPT in one step</sub></td>
+  </tr>
+</table>
+
 ## Install
 
-You need an **Apple Silicon Mac** with **macOS 14** or later.
+Apple Silicon, macOS 14 or later.
 
-1. Download the latest `Bloccy-<version>.zip` from [Releases](../../releases/latest), unzip it, and move **Bloccy.app** to your Applications folder.
-2. Open Bloccy. macOS will say it can't check the app for malicious software, because Bloccy isn't notarized by Apple. Go to **System Settings › Privacy & Security**, scroll down, click **Open Anyway** next to Bloccy, and confirm. You only do this once.
-3. When asked, allow Bloccy under **Accessibility** (System Settings › Privacy & Security › Accessibility). Bloccy needs this to find the chat box and put your message in it.
+1. Download the zip from [Releases](../../releases/latest) and move **Bloccy** to Applications.
+2. Open it. The first time, macOS blocks it: click **Open Anyway** in **System Settings › Privacy & Security**.
+3. Allow **Accessibility** when asked.
 
-After that, Bloccy updates itself: it checks once a day (or use **Check for Updates…** in its menu), and updates keep the Accessibility permission.
-4. Bloccy lives in the menu bar. Turn on **Open at Login** there if you want it to start with your Mac.
+Bloccy lives in the menu bar and updates itself.
 
 ## Use it
 
