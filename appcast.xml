@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Bloccy</title>
+    <link>https://github.com/soeirodefaria/bloccy</link>
+    <description>Bloccy updates</description>
+    <language>en</language>
+    <item>
+      <title>Bloccy 0.1.0</title>
+      <pubDate>Sun, 18 Oct 2026 18:28:14 GMT</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/soeirodefaria/bloccy/releases/tag/v0.1.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/soeirodefaria/bloccy/releases/download/v0.1.0/Bloccy-0.1.0.zip" type="application/octet-stream" sparkle:edSignature="goqqsswdIrcX+kIPptcg6hvav3zbz74TLcvRRVazvfbeD0BxA+KE+c7jlxpK9URl9jM4LefqAWKqqtwdVfAGBw==" length="18732002"/>
+    </item>
+  </channel>
+</rss>
