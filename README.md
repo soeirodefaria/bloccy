@@ -15,20 +15,10 @@ Works with the **ChatGPT** and **Claude** desktop apps, and with chatgpt.com and
 
 This repository is for downloads and feedback. Bloccy is in early testing.
 
-<table>
-  <tr>
-    <td width="50%"><img src="screenshots/1-icon.png" alt="The Bloccy icon next to the ChatGPT chat box"><br><sub>Click the Bloccy icon next to the chat box</sub></td>
-    <td width="50%"><img src="screenshots/2-compose.png" alt="Writing a message in the Bloccy composer"><br><sub>Write your message</sub></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/3-slash-menu.png" alt="The slash menu with Image and Drawing"><br><sub>Press / to add an image or a drawing</sub></td>
-    <td><img src="screenshots/4-drawing.png" alt="Drawing a story arc in the drawing editor"><br><sub>Sketch it, or annotate a screenshot</sub></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/5-images.png" alt="A drawing and three images side by side in the composer"><br><sub>Put images side by side</sub></td>
-    <td><img src="screenshots/6-sent.png" alt="The message sent to ChatGPT with its images"><br><sub>Send it all to ChatGPT in one step</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="screenshots/composer.png" width="49%" alt="The Bloccy composer over ChatGPT, with the slash menu open">
+  <img src="screenshots/chatgpt.png" width="49%" alt="A Bloccy message sent to ChatGPT, with its images attached">
+</p>
 
 ## Install
 
@@ -46,6 +36,14 @@ Bloccy lives in the menu bar and updates itself.
 - **Write:** type, and press **/** to add an image or a drawing. Paste screenshots straight in. Pick or drop several images to put them side by side.
 - **Send:** **⌘↩** puts everything in the chat box and sends it. **⇧⌘↩** only puts it in, so you can review it first.
 - **History:** the clock icon keeps your last message, so you can restore it or send it again.
+
+## How it works
+
+You write your message the way you'd explain it in person: some text, then a screenshot, a sketch, more text. Bloccy keeps that order when it sends.
+
+Every image and drawing becomes a numbered figure. The text gets a marker like **[Figure 1]** exactly where the image sat, and the same label is drawn into the corner of the image. So the AI reads your message in the right sequence and knows which image you mean at each point, instead of getting a pile of attachments and a block of text to piece together.
+
+Then Bloccy puts it all in the chat box of the app you're using and sends it, or leaves it there for you to review first.
 
 ## Roadmap
 
