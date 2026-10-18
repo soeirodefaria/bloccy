@@ -1,6 +1,14 @@
 <p align="center"><img src="logo.svg" alt="Bloccy" height="56"></p>
 <p align="center"><strong>A canvas for your next conversation</strong></p>
 
+<p align="center">
+  <img alt="Status: early testing" src="https://img.shields.io/badge/status-early%20testing-fa4774">
+  <a href="../../releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/soeirodefaria/bloccy?label=version&color=555555"></a>
+  <img alt="Runs on macOS 14 or later, Apple Silicon" src="https://img.shields.io/badge/runs%20on-macOS%2014%2B%20%C2%B7%20Apple%20Silicon-555555?logo=apple&logoColor=white">
+  <img alt="Works with ChatGPT and Claude" src="https://img.shields.io/badge/works%20with-ChatGPT%20%C2%B7%20Claude-555555">
+  <img alt="Runs locally, no account" src="https://img.shields.io/badge/privacy-local%20only%2C%20no%20account-555555">
+</p>
+
 ## Show AI what you mean
 
 AI can understand text, images, drawings, and voice. So why are we still talking to it through a text box?
