@@ -6,6 +6,15 @@
     <description>Bloccy updates</description>
     <language>en</language>
     <item>
+      <title>Bloccy 0.1.2</title>
+      <pubDate>Wed, 21 Oct 2026 22:03:29 GMT</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/soeirodefaria/bloccy/releases/tag/v0.1.2</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/soeirodefaria/bloccy/releases/download/v0.1.2/Bloccy-0.1.2.zip" type="application/octet-stream" sparkle:edSignature="Ix+ATQzLo3a1huiiIRRSxyKO5wr/4n6O4Bx7RPsJDEHsKYYwK2ah0P5tuwdjbeQ3tCTT+MPJQ1h6kfc9UaPiDg==" length="18757331"/>
+    </item>
+    <item>
       <title>Bloccy 0.1.1</title>
       <pubDate>Sun, 18 Oct 2026 20:41:08 GMT</pubDate>
       <sparkle:version>51</sparkle:version>
