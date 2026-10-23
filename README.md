@@ -5,7 +5,7 @@
   <img alt="Status: early testing" src="https://img.shields.io/badge/status-early%20testing-fa4774">
   <a href="../../releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/soeirodefaria/bloccy?label=version&color=555555"></a>
   <img alt="Runs on macOS 14 or later, Apple Silicon" src="https://img.shields.io/badge/runs%20on-macOS%2014%2B%20%C2%B7%20Apple%20Silicon-555555?logo=apple&logoColor=white">
-  <img alt="Works with ChatGPT, Claude and T3 Code" src="https://img.shields.io/badge/works%20with-ChatGPT%20%C2%B7%20Claude%20%C2%B7%20T3%20Code-555555">
+  <img alt="Works with ChatGPT, Claude, Grok and T3 Code" src="https://img.shields.io/badge/works%20with-ChatGPT%20%C2%B7%20Claude%20%C2%B7%20Grok%20%C2%B7%20T3%20Code-555555">
   <img alt="Runs locally, no account" src="https://img.shields.io/badge/privacy-local%20only%2C%20no%20account-555555">
 </p>
 
@@ -17,9 +17,9 @@ Bloccy gives you a canvas to communicate with AI the way you naturally explain t
 
 Circle something that needs fixing. Sketch an idea. Put screenshots side by side. Record a quick voice note instead of typing a long explanation. Bring everything together so AI can better understand what you're trying to communicate.
 
-Bloccy works right inside your existing ChatGPT, Claude and T3 Code conversations. No new chat app, no switching tools. Just a better way to get your point across.
+Bloccy works right inside your existing ChatGPT, Claude, Grok and T3 Code conversations. No new chat app, no switching tools. Just a better way to get your point across.
 
-Works with the **ChatGPT**, **Claude** and **T3 Code** desktop apps, and with chatgpt.com and claude.ai in Chrome.
+Works with the **ChatGPT**, **Claude**, **Grok Bot** and **T3 Code** desktop apps, and with chatgpt.com, claude.ai and grok.com in Safari, Chrome, Brave and other Chromium-based browsers.
 
 This repository is for downloads and feedback. Bloccy is in early testing.
 
@@ -42,7 +42,7 @@ Bloccy lives in the menu bar and updates itself.
 
 ## Use it
 
-- **Open:** press **⌃⌥B**, or click the Bloccy icon next to the chat box in ChatGPT, Claude or T3 Code. Anything you'd already typed in the chat box comes along into the canvas.
+- **Open:** press **⌃⌥B**, or click the Bloccy icon next to the chat box in any of them. Anything you'd already typed in the chat box comes along into the canvas.
 - **Write:** type, and press **/** to add an image or a drawing. Paste screenshots straight in. Pick or drop several images to put them side by side.
 - **Send:** **⌘↩** puts everything in the chat box and sends it. **⇧⌘↩** only puts it in, so you can review it first.
 - **History:** the clock icon keeps your last message, so you can restore it or send it again.
@@ -88,13 +88,14 @@ In **T3 Code**, your sent message looks like your canvas: each figure shows inli
 - [x] Automatic updates
 - [x] T3 Code, with figures shown inline in the sent message (0.1.2)
 - [x] Text you'd already typed in the chat box comes into the canvas (0.1.2)
+- [x] Grok: the Grok Bot app and grok.com (0.1.3)
+- [x] Safari, Brave and other Chromium-based browsers (0.1.3)
 
 **Next**
 - [ ] Voice notes: record a quick explanation instead of typing it
 - [ ] Sharper drawings and annotated screenshots (full-resolution export)
 - [ ] A clear message for files Bloccy can't send yet, such as videos
-- [ ] More apps: VS Code
-- [ ] More browsers: Safari and Arc
+- [ ] More apps: VS Code and Cursor, Meta's Muse
 
 **Ideas**
 - [ ] Capture a screenshot from inside Bloccy
